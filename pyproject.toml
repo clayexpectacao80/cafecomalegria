@@ -33,6 +33,10 @@ path = "src"
 dev-dependencies = [
     "flet[all]==0.26.0",
 ]
+[tool.poetry.dependencies]
+python = "^3.13"
+flet = "^0.26.0"
+
 
 [tool.poetry]
 package-mode = false
